@@ -42,6 +42,7 @@ labels. For example, label [1,1,0,0,0] will represent a male with black hair who
 and does not have an oval face. Labels are in the order: Black hair, Male, Oval Face, Smiling and Young.
 Some examples from the dataset are shown in figure 7.
 After loading all the data using np.load(), it has dimensions:
+
 a. Training images: 202599 × 64 × 64 × 3
 b. Training labels: 202599 × 5 × 1
 
