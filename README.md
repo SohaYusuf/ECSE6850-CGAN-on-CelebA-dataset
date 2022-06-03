@@ -44,6 +44,7 @@ Some examples from the dataset are shown in figure 7.
 After loading all the data using np.load(), it has dimensions:
 
 a. Training images: 202599 × 64 × 64 × 3
+
 b. Training labels: 202599 × 5 × 1
 
 4. Experimental settings
