@@ -2,7 +2,7 @@
 
 
 """
-ECSE 6850 Final Project - code.py - SOHA YUSUF (RIN: 662011092)
+Author - SOHA YUSUF
 """
 
 
@@ -456,10 +456,3 @@ with tf.device('/GPU:1'):
 
 # save weights for the model
 cond_gan.save_weights('cgan_weights')
-
-
-# In[ ]:
-
-
-
-
