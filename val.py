@@ -2,7 +2,7 @@
 
 
 """
-ECSE 6850 Final Project - val.py - SOHA YUSUF (RIN:662011092)
+Author - SOHA YUSUF
 """
 
 
@@ -498,10 +498,3 @@ my_fid, my_mu_real, my_mu_gen = calculate_fid(real_image_embeddings, my_embeddin
 
 print('My FID: ', my_fid)
 print('My IS: ', my_is)
-
-
-# In[ ]:
-
-
-
-
